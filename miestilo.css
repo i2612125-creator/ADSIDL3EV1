@@ -81,9 +81,9 @@ a:hover{
 }
 @keyframes moverDerecha{
     from{
-        transform: translateX(30px);
+        transform: translateY(30px);
     }
     
-    to{ transform: translateX(0px); 
+    to{ transform: translateY(0px); 
     }
 }
